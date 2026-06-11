@@ -1,0 +1,15 @@
+path: D:/project/NCU/114/Jumior/python/FinalProject/My First Project.v1i.yolov11
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['eraser'] # 這裡保留你原本的類別名稱
+
+
+roboflow:
+  workspace: self-e7sfu
+  project: my-first-project-9calv
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/self-e7sfu/my-first-project-9calv/dataset/1

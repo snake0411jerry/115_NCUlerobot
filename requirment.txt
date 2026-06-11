@@ -1,0 +1,6 @@
+SpeechRecognition
+openai-whisper
+pyserial
+opencv-python
+numpy
+ultralytics
